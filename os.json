@@ -1,6 +1,6 @@
 {
   "os": "Custom LineageOS 21",
-  "boot": "https://github.com/ant9141/pinn-os.git/releases/download/v1.0/boot.tar.xz",
-  "root": "https://github.com/ant9141/pinn-os.git/releases/download/v1.0/root.tar.xz",
-  "partitions": "https://github.com/ant9141/pinn-os.git/releases/download/v1.0/partitions.json"
+  "boot": "https://github.com/ant9141/pinn-os/releases/download/v1.0/boot.tar.xz",
+  "root": "https://github.com/ant9141/pinn-os/releases/download/v1.0/root.tar.xz",
+  "partitions": "https://github.com/ant9141/pinn-os/releases/download/v1.0/partitions.json"
 }
