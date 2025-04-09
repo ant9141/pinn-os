@@ -1,14 +1,6 @@
 {
-  "name": "LineageOS 21 (KonstaKANG)",
-  "description": "Unofficial Android 14 build for Raspberry Pi 4B by KonstaKANG",
-  "url": "https://konstakang.com/devices/rpi4/LineageOS21/",
-  "release_date": "2024-08-16",
-  "version": "21.0",
-  "username": "pi",
-  "password": "",
-  "supported_models": ["Pi4", "Pi400"],
-  "bootable": true,
-  "login": "First boot takes a while. Touchscreen and USB supported.",
-  "icon": "icon.png",
-  "partition_setup": "partitions.json"
+  "os": "Custom LineageOS 21",
+  "boot": "https://github.com/ant9141/pinn-os.git/releases/download/v1.0/boot.tar.xz",
+  "root": "https://github.com/ant9141/pinn-os.git/releases/download/v1.0/root.tar.xz",
+  "partitions": "https://github.com/ant9141/pinn-os.git/releases/download/v1.0/partitions.json"
 }
